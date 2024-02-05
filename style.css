@@ -1,0 +1,138 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+body{
+  background-color: hsl(330, 100%, 98%)
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width:600px;
+    height:1340px;
+    background-color:  hsl(0, 0%, 100%);
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+img{
+    width:540px;
+    height:auto;
+    margin: 30px;border-radius: 10px;
+}
+h2{
+    margin-left: 30px;
+    font-family: 'Young Serif', serif;
+    font-weight: 400;
+ 
+}
+p{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+
+color: hsl(24, 5%, 18%);
+}
+h4{
+    margin-left: 20px;
+padding-top: 20px;
+color:hsl(332, 51%, 32%);
+font-weight:600;
+font-family: 'Outfit', sans-serif;
+
+}
+.box2{
+    background-color: hsl(330, 100%, 98%);
+    width:540px;
+    height:140px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+li{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 14px;
+    
+}
+ul{
+    margin-left: 10px;
+    font-family: 'Outfit', sans-serif;
+}
+h3{
+    margin-top: 10px;
+    margin-left: 30px;
+    color:hsl(14, 45%, 36%);
+    font-family: 'Young Serif', serif;
+font-weight:500;
+    
+    
+}
+ol{
+    margin-left: 10px;
+    font-family: 'Outfit', sans-serif;
+    
+}
+b{
+    font-family:  'Outfit', sans-serif;
+}
+.onee{
+    position: relative;
+    left:300px;
+    bottom:20px;
+    color:hsl(14, 45%, 36%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
+.one{
+   margin-left: 50px;
+   margin-top: 20px;
+   font-family: 'Outfit', sans-serif;
+   font-size: 14px;
+}
+.two{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
+.three{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+
+}
+.four{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
+.twoo{
+    position: relative;
+    left:300px;
+    bottom:20px;
+    color:hsl(14, 45%, 36%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
+.threee{
+    position: relative;
+    left:300px;
+    bottom:20px;
+    font-size: 16px;
+    color:hsl(14, 45%, 36%);
+    font-size: 14px;
+}
+.fourr{
+    position: relative;
+    left:300px;
+    bottom:20px;
+    color:hsl(14, 45%, 36%);
+    font-size: 14px;
+}
